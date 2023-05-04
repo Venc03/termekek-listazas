@@ -1,0 +1,2 @@
+import { LISTA } from "./adat";
+
